@@ -1,0 +1,23 @@
+Z:/VerilogCodes/ModelSim/005_fullAdder_instantiation/fullAdder_instantiation.v {1 {vlog -work work -vopt -stats=none Z:/VerilogCodes/ModelSim/005_fullAdder_instantiation/fullAdder_instantiation.v
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module fullAdder_instantiation
+-- Compiling module halfAdder
+
+Top level modules:
+	fullAdder_instantiation
+
+} {} {}} Z:/VerilogCodes/ModelSim/005_fullAdder_instantiation/fullAdder_instatiationTB.v {1 {vlog -work work -vopt -stats=none Z:/VerilogCodes/ModelSim/005_fullAdder_instantiation/fullAdder_instatiationTB.v
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module fullAdder_instantiationTB
+
+Top level modules:
+	fullAdder_instantiationTB
+
+} {} {}} Z:/VerilogCodes/ModelSim/005_fullAdder_instantiation/fullAdder_instatiationTB_HA.v {1 {vlog -work work -vopt -stats=none Z:/VerilogCodes/ModelSim/005_fullAdder_instantiation/fullAdder_instatiationTB_HA.v
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module fullAdder_instantiationTB_HA
+
+Top level modules:
+	fullAdder_instantiationTB_HA
+
+} {} {}}

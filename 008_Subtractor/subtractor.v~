@@ -1,0 +1,55 @@
+/*
+
+*/
+
+module fullSubtractor(
+						input a_fa, b_fa, bur_fa,
+						output difference_fa, burrow_fa
+					 );
+
+wire ha1_diff;
+wire ha1_burr;
+wire ha2_burr;
+
+halfSubtractor hs1 (
+					.a_ha(a_fa),
+					.b_ha(b_fa),
+					.difference_ha(ha1_diff),
+					.burrow_ha(ha1_burr)
+					);
+
+halfSubtractor hs2 (
+					.a_ha(ha1_diff),
+					.b_ha(bur_fa),
+					.difference_ha(difference_fa),
+					.burrow_ha(ha2_burr)
+					);
+
+assign burrow_fa = ha1_burr | ha2_burr;
+
+
+// where, ha1_burr = (~a_fa) | b_fa
+// where, ha2_burr = (~(a^b))| bur_fa`
+
+/*
+// Dataflow modelling
+assign difference_fa = a_fa ^ b_fa ^ bur_fa;
+//assign burrow_fa	 = ((~a_fa) & b_fa) | (~(a_fa ^ b_fa) & bur_fa);	
+						// or
+assign burrow_fa	 = ((~a_fa) & b_fa) | (	(a_fa ^~ b_fa) & bur_fa);	
+*/
+
+endmodule
+
+
+
+module halfSubtractor(	
+						input a_ha, b_ha,
+						output difference_ha, burrow_ha
+					 );
+
+// Dataflow Model
+assign difference_ha = a_ha^b_ha;
+assign burrow_ha	 = (~a_ha)&b_ha; 
+
+endmodule

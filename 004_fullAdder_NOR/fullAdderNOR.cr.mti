@@ -1,0 +1,15 @@
+Z:/VerilogCodes/ModelSim/004_fullAdder_NOR/fullAddrerNOR_TB.v {1 {vlog -work work -stats=none Z:/VerilogCodes/ModelSim/004_fullAdder_NOR/fullAddrerNOR_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module fullAdderNOR_TB
+
+Top level modules:
+	fullAdderNOR_TB
+
+} {} {}} Z:/VerilogCodes/ModelSim/004_fullAdder_NOR/fullAdderNOR.v {1 {vlog -work work -stats=none {Z:\VerilogCodes\ModelSim\004_fullAdder_NOR\fullAdderNOR.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module fullAdderNOR
+
+Top level modules:
+	fullAdderNOR
+
+} {} {}}

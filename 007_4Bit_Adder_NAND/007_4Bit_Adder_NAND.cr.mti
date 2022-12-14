@@ -1,0 +1,16 @@
+Z:/VerilogCodes/ModelSim/007_4Bit_Adder_NAND/Bit_4_FullAdder.v {1 {vlog -work work -stats=none Z:/VerilogCodes/ModelSim/007_4Bit_Adder_NAND/Bit_4_FullAdder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Bit_4_FullAdder
+-- Compiling module fullAdderNAND
+
+Top level modules:
+	Bit_4_FullAdder
+
+} {} {}} Z:/VerilogCodes/ModelSim/007_4Bit_Adder_NAND/Bit_4_FullAdderTB.v {1 {vlog -work work -stats=none Z:/VerilogCodes/ModelSim/007_4Bit_Adder_NAND/Bit_4_FullAdderTB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module fullAdderNAND_TB
+
+Top level modules:
+	fullAdderNAND_TB
+
+} {} {}}

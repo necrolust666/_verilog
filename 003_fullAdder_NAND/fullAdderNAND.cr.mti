@@ -1,0 +1,8 @@
+Z:/VerilogCodes/ModelSim/003_fullAdder_NAND/fullAdderNAND_TB.v {1 {vlog -work work -stats=none Z:/VerilogCodes/ModelSim/003_fullAdder_NAND/fullAdderNAND_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module fullAdderNAND_TB
+
+Top level modules:
+	fullAdderNAND_TB
+
+} {} {}}

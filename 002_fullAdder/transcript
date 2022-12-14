@@ -1,0 +1,36 @@
+vsim -gui work.fullAdderTB
+# vsim -gui work.fullAdderTB 
+# Start time: 16:26:37 on Nov 04,2022
+# Loading work.fullAdderTB
+# Loading work.fullAdder
+add wave -position insertpoint  \
+sim:/fullAdderTB/COUT
+run
+run
+run
+run
+run
+add wave -position insertpoint sim:/fullAdderTB/*
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run
+run
+run
+run
+run
+quit -sim
+# End time: 16:27:51 on Nov 04,2022, Elapsed time: 0:01:14
+# Errors: 0, Warnings: 1

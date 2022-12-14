@@ -1,0 +1,43 @@
+module add_sumTB;
+
+reg	SUM, CARRY, DIFF, BURROW;
+wire	A, B, CIN, EN;
+
+add_sub dut(	
+		.a(A),
+		.b(B),
+		.cin(CIN),
+		.en(EN),
+		.sum(SUM),
+		.diff(DIFF),
+		.carry(CARRY),
+		.burrow(BURROW)
+		);
+
+// Initializing Inputs
+		EN = 1'bx; 		A = 1'b0;	B = 1'b0;	C = 1'b0;
+
+	// Addition Operation
+	#100	EN = 1;			A = 1'b0;	B = 1'b0;	C = 1'b1;
+	#100	EN = 1;			A = 1'b0;	B = 1'b1;	C = 1'b0;		
+	#100	EN = 1;			A = 1'b0;	B = 1'b1;	C = 1'b1;		
+	#100	EN = 1;			A = 1'b1;	B = 1'b0;	C = 1'b0;		
+	#100	EN = 1;			A = 1'b1;	B = 1'b0;	C = 1'b1;		
+	#100	EN = 1;			A = 1'b1;	B = 1'b1;	C = 1'b0;		
+	#100	EN = 1;			A = 1'b1;	B = 1'b1;	C = 1'b1;
+
+	// Subtraction Operation
+	#100	EN = 0;			A = 1'b0;	B = 1'b0;	C = 1'b1;
+	#100	EN = 0;			A = 1'b0;	B = 1'b1;	C = 1'b0;		
+	#100	EN = 0;			A = 1'b0;	B = 1'b1;	C = 1'b1;		
+	#100	EN = 0;			A = 1'b1;	B = 1'b0;	C = 1'b0;		
+	#100	EN = 0;			A = 1'b1;	B = 1'b0;	C = 1'b1;		
+	#100	EN = 0;			A = 1'b1;	B = 1'b1;	C = 1'b0;		
+	#100	EN = 0;			A = 1'b1;	B = 1'b1;	C = 1'b1;
+
+
+
+
+
+
+

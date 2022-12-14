@@ -1,0 +1,59 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/20.1
+vhalfAdder
+Z0 !s110 1665503458
+!i10b 1
+!s100 7i8f5V^U`8ia77LTZ60]53
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ih;G7ND`21R=:XXCa@2MHo3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dZ:/VerilogCodes/ModelSim/001_halfAdder
+w1665484704
+8Z:/VerilogCodes/ModelSim/001_halfAdder/halfAdder.v
+FZ:/VerilogCodes/ModelSim/001_halfAdder/halfAdder.v
+!i122 2
+L0 6 33
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1665503457.000000
+!s107 Z:/VerilogCodes/ModelSim/001_halfAdder/halfAdder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Z:/VerilogCodes/ModelSim/001_halfAdder/halfAdder.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+nhalf@adder
+vhalfAdderTB
+R0
+!i10b 1
+!s100 ]b1LRggo@TlKaS1>>fkQ33
+R1
+IVXkkM>VW1WVok<lz1<4nk1
+R2
+R3
+w1665484798
+8Z:/VerilogCodes/ModelSim/001_halfAdder/halfAdderTB.v
+FZ:/VerilogCodes/ModelSim/001_halfAdder/halfAdderTB.v
+!i122 3
+L0 6 38
+R4
+r1
+!s85 0
+31
+!s108 1665503458.000000
+!s107 Z:/VerilogCodes/ModelSim/001_halfAdder/halfAdderTB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Z:/VerilogCodes/ModelSim/001_halfAdder/halfAdderTB.v|
+!i113 1
+R5
+R6
+nhalf@adder@t@b

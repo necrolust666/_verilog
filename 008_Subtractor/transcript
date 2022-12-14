@@ -1,0 +1,18 @@
+vsim -gui work.fullSubtractorTB
+# vsim -gui work.fullSubtractorTB 
+# Start time: 20:03:30 on Oct 30,2022
+# Loading work.fullSubtractorTB
+# Loading work.fullSubtractor
+# Loading work.halfSubtractor
+add wave -position insertpoint sim:/fullSubtractorTB/*
+run
+run
+run
+run
+run
+quit -sim
+# End time: 20:03:47 on Oct 30,2022, Elapsed time: 0:00:17
+# Errors: 0, Warnings: 1
+# Compile of subtractor.v was successful.
+# Compile of subtractorTB.v was successful.
+# 2 compiles, 0 failed with no errors.

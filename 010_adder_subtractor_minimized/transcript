@@ -1,0 +1,54 @@
+# Compile of add_sub_min.v was successful.
+# Compile of add_sub_minTB.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Load canceled
+# Compile of add_sub_min.v was successful.
+# Compile of add_sub_minTB.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.add_sum_minTB
+# vsim -gui work.add_sum_minTB 
+# Start time: 21:58:37 on Oct 30,2022
+# Loading work.add_sum_minTB
+# ** Error: (vsim-3033) Instantiation of 'add_sub_min' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /add_sum_minTB File: Z:/VerilogCodes/ModelSim/010_adder_subtractor_minimized/add_sub_minTB.v Line: 8
+#         Searched libraries:
+#             Z:/VerilogCodes/ModelSim/010_adder_subtractor_minimized/work
+# Error loading design
+# End time: 21:58:37 on Oct 30,2022, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 3
+# Compile of add_sub_min.v was successful.
+# Compile of add_sub_minTB.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Load canceled
+# Compile of add_sub_min.v was successful.
+# Compile of add_sub_minTB.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.add_sub_minTB
+# vsim -gui work.add_sub_minTB 
+# Start time: 21:59:49 on Oct 30,2022
+# Loading work.add_sub_minTB
+# Loading work.add_sub_min
+add wave -position insertpoint sim:/add_sub_minTB/*
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+quit -sim
+# End time: 22:01:23 on Oct 30,2022, Elapsed time: 0:01:34
+# Errors: 0, Warnings: 3

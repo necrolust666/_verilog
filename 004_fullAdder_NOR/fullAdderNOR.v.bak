@@ -1,0 +1,45 @@
+/*
+Full Adder NOR
+*/
+
+
+module fullAdderNOR(a, b, cin, sum, cout);
+
+input a, b, cin;
+output sum, cout;
+
+wire [10:1]w;
+
+
+// Gate Level Modelling
+
+nor n1(w[1], a, b);
+nor n2(w[2], a, a);
+nor n3(w[3], b, b);
+nor n4(w[4], w[2], w[3]);
+nor n5(w[5], w[1], w[4]);
+nor n6(w[6], w[5], cin);
+nor n7(w[7], w[5], w[5]);
+nor n8(w[8], cin, cin);
+nor n9(w[9], w[7], w[8]);
+nor n10(w[10], w[4], w[9]);
+nor n11(cout, w[10], w[10]);
+nor n12(sum, w[6], w[9]);
+
+/*
+nor n1(w1, a, b);
+nor n2(w2, a, a);
+nor n3(w3, b, b);
+nor n4(w4, w2, w3);
+nor n5(w5, w1, w4);
+nor n6(w6, w5, cin);
+nor n7(w7, w5, w5);
+nor n8(w8, cin, cin);
+nor n9(w9, w7, w8);
+nor n10(w10, w4, w9);
+nor n11(cout, w10, w10);
+nor n12(sum, w5, w9);
+*/
+
+endmodule
+

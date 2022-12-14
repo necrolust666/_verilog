@@ -1,0 +1,218 @@
+# Compile of addSub_mod.v failed with 4 errors.
+# Compile of addSub_mod.v failed with 4 errors.
+# Compile of addSub_mod.v failed with 2 errors.
+# Compile of addSub_mod.v failed with 1 errors.
+# Compile of addSub_modTB.v was successful.
+# 2 compiles, 1 failed with 1 error.
+# Compile of addSub_mod.v failed with 1 errors.
+# Compile of addSub_mod.v failed with 1 errors.
+# Compile of addSub_mod.v was successful.
+# Compile of addSub_mod.v was successful.
+# Compile of addSub_modTB.v failed with 2 errors.
+# 2 compiles, 1 failed with 2 errors.
+# Compile of addSub_mod.v was successful.
+# Compile of addSub_mod.v was successful.
+# Compile of addSub_modTB.v failed with 2 errors.
+# 2 compiles, 1 failed with 2 errors.
+# Compile of addSub_mod.v was successful.
+# Compile of addSub_modTB.v failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of addSub_mod.v was successful.
+# Compile of addSub_modTB.v failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of addSub_modTB.v failed with 1 errors.
+# Compile of addSub_modTB.v failed with 1 errors.
+# Compile of addSub_mod.v was successful.
+# Compile of addSub_modTB.v failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of addSub_mod.v was successful.
+# Compile of addSub_modTB.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Load canceled
+# Compile of addSub_mod.v was successful.
+# Compile of addSub_modTB.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.addSub_modTB
+# vsim -gui work.addSub_modTB 
+# Start time: 02:22:36 on Oct 31,2022
+# Loading work.addSub_modTB
+# Loading work.addSub_mod
+add wave -position insertpoint sim:/addSub_modTB/*
+run
+run
+run
+run
+run
+run
+quit -sim
+# End time: 02:27:41 on Oct 31,2022, Elapsed time: 0:05:05
+# Errors: 0, Warnings: 22
+# Compile of addSub_mod.v was successful.
+# Compile of addSub_modTB.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.addSub_modTB
+# vsim -gui work.addSub_modTB 
+# Start time: 02:31:01 on Oct 31,2022
+# Loading work.addSub_modTB
+# Loading work.addSub_mod
+add wave -position insertpoint sim:/addSub_modTB/*
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# Compile of addSub_mod.v was successful.
+# Compile of addSub_modTB.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.addSub_modTB
+# Loading work.addSub_mod
+run
+run
+run
+run
+run
+run
+run
+run
+# Compile of addSub_mod.v failed with 1 errors.
+# Compile of addSub_modTB.v was successful.
+# 2 compiles, 1 failed with 1 error.
+# Compile of addSub_mod.v was successful.
+# Compile of addSub_modTB.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.addSub_modTB
+# Loading work.addSub_mod
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'dut'.  Expected 7, found 6.
+#    Time: 0 ps  Iteration: 0  Instance: /addSub_modTB/dut File: Z:/VerilogCodes/ModelSim/011_adder_subtractor_modCircuit/addSub_modTB.v Line: 9
+# ** Warning: (vsim-3722) Z:/VerilogCodes/ModelSim/011_adder_subtractor_modCircuit/addSub_modTB.v(9): [TFMPC] - Missing connection for port 'neg'.
+add wave -position insertpoint sim:/addSub_modTB/*
+quit -sim
+# End time: 02:58:56 on Oct 31,2022, Elapsed time: 0:27:55
+# Errors: 0, Warnings: 3
+# Compile of addSub_mod.v was successful.
+# Compile of addSub_modTB.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.addSub_modTB
+# vsim -gui work.addSub_modTB 
+# Start time: 02:59:35 on Oct 31,2022
+# Loading work.addSub_modTB
+# Loading work.addSub_mod
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'neg'.
+#    Time: 0 ps  Iteration: 0  Instance: /addSub_modTB/dut File: Z:/VerilogCodes/ModelSim/011_adder_subtractor_modCircuit/addSub_modTB.v Line: 11
+# Error loading design
+# End time: 02:59:35 on Oct 31,2022, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 2
+# Compile of addSub_mod.v was successful.
+# Compile of addSub_modTB.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.addSub_modTB
+# vsim -gui work.addSub_modTB 
+# Start time: 03:00:24 on Oct 31,2022
+# Loading work.addSub_modTB
+# Loading work.addSub_mod
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'neg'.
+#    Time: 0 ps  Iteration: 0  Instance: /addSub_modTB/dut File: Z:/VerilogCodes/ModelSim/011_adder_subtractor_modCircuit/addSub_modTB.v Line: 11
+# Error loading design
+# End time: 03:00:24 on Oct 31,2022, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 2
+# Compile of addSub_mod.v was successful.
+# Compile of addSub_modTB.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.addSub_modTB
+# vsim -gui work.addSub_modTB 
+# Start time: 03:01:18 on Oct 31,2022
+# Loading work.addSub_modTB
+# Loading work.addSub_mod
+add wave -position insertpoint sim:/addSub_modTB/*
+# Load canceled
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# Compile of addSub_mod.v was successful.
+# Compile of addSub_modTB.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Load canceled
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.addSub_modTB
+# Loading work.addSub_mod
+run
+run
+run
+run
+run
+run
+run
+run
+# Compile of addSub_mod.v was successful.
+# Compile of addSub_modTB.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.addSub_modTB
+# Loading work.addSub_mod
+# Load canceled
+run
+run
+run
+run
+run
+run
+run
+run
+# Compile of addSub_mod.v was successful.
+# Compile of addSub_modTB.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.addSub_modTB
+# Loading work.addSub_mod
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# Compile of addSub_mod.v failed with 1 errors.
+# Compile of addSub_modTB.v failed with 1 errors.
+# 2 compiles, 2 failed with 2 errors.
+# Compile of addSub_mod.v failed with 1 errors.
+# Compile of addSub_modTB.v was successful.
+# 2 compiles, 1 failed with 1 error.
+# Compile of addSub_mod.v was successful.
+# Compile of addSub_modTB.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.addSub_modTB
+# Loading work.addSub_mod
+# Warning in wave window restart: (vish-4014) No objects found matching '/addSub_modTB/NEG'. 
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# End time: 03:08:40 on Oct 31,2022, Elapsed time: 0:07:22
+# Errors: 0, Warnings: 1

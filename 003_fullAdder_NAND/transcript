@@ -1,0 +1,143 @@
+# reading C:/intelFPGA_lite/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project fullAdderNOR
+# Compile of fullAdderNOR.v was successful.
+# Compile of fullAddrerNOR_TB.v failed with 1 errors.
+# Compile of fullAddrerNOR_TB.v was successful.
+vsim -gui work.fullAdderNOR_TB
+# vsim -gui work.fullAdderNOR_TB 
+# Start time: 22:35:26 on Oct 19,2022
+# Loading work.fullAdderNOR_TB
+# Loading work.fullAdderNOR
+add wave -position insertpoint sim:/fullAdderNOR_TB/*
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+quit -sim
+# End time: 22:39:02 on Oct 19,2022, Elapsed time: 0:03:36
+# Errors: 0, Warnings: 11
+# Compile of fullAdderNOR.v was successful.
+vsim -gui work.fullAdderNOR_TB
+# vsim -gui work.fullAdderNOR_TB 
+# Start time: 22:39:13 on Oct 19,2022
+# Loading work.fullAdderNOR_TB
+# Loading work.fullAdderNOR
+add wave -position insertpoint sim:/fullAdderNOR_TB/*
+run
+run
+run
+run
+run
+run
+run
+run
+quit -sim
+# End time: 22:39:33 on Oct 19,2022, Elapsed time: 0:00:20
+# Errors: 0, Warnings: 2
+# Compile of fullAdderNOR.v was successful.
+vsim -gui work.fullAdderNOR_TB
+# vsim -gui work.fullAdderNOR_TB 
+# Start time: 22:43:27 on Oct 19,2022
+# Loading work.fullAdderNOR_TB
+# Loading work.fullAdderNOR
+add wave -position insertpoint sim:/fullAdderNOR_TB/*
+run
+run
+run
+run
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+quit -sim
+# End time: 22:45:52 on Oct 19,2022, Elapsed time: 0:02:25
+# Errors: 0, Warnings: 1
+# Compile of fullAddrerNOR_TB.v was successful.
+# reading C:/intelFPGA_lite/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project fullAdder_instantiation
+# Compile of fullAdder_instantiation.v failed with 1 errors.
+# Compile of fullAdder_instantiation.v failed with 10 errors.
+# Compile of fullAdder_instantiation.v failed with 12 errors.
+# Compile of fullAdder_instantiation.v failed with 10 errors.
+# Compile of fullAdder_instantiation.v failed with 1 errors.
+# Compile of fullAdder_instantiation.v failed with 10 errors.
+# Compile of fullAdder_instatiationTB.v was successful.
+# Compile of fullAdder_instantiation.v was successful.
+# Compile of fullAdder_instatiationTB.v was successful.
+# Compile of fullAdder_instatiationTB_HA.v was successful.
+vsim -gui work.fullAdder_instantiationTB
+# vsim -gui work.fullAdder_instantiationTB 
+# Start time: 01:24:56 on Oct 20,2022
+# Loading work.fullAdder_instantiationTB
+# ** Error: (vsim-3037) Missing instance name in instantiation of 'fullAdder_instantiation'.
+#    Time: 0 ps  Iteration: 0  Instance: /fullAdder_instantiationTB File: Z:/VerilogCodes/ModelSim/005_fullAdder_instantiation/fullAdder_instatiationTB.v Line: 17
+# Error loading design
+# End time: 01:24:57 on Oct 20,2022, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 17
+vsim -gui work.fullAdder_instantiationTB
+# vsim -gui work.fullAdder_instantiationTB 
+# Start time: 01:28:30 on Oct 20,2022
+# Loading work.fullAdder_instantiationTB
+# ** Error: (vsim-3037) Missing instance name in instantiation of 'fullAdder_instantiation'.
+#    Time: 0 ps  Iteration: 0  Instance: /fullAdder_instantiationTB File: Z:/VerilogCodes/ModelSim/005_fullAdder_instantiation/fullAdder_instatiationTB.v Line: 17
+# Error loading design
+# End time: 01:28:30 on Oct 20,2022, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 1
+# Compile of fullAdder_instatiationTB.v was successful.
+# Compile of fullAdder_instantiation.v was successful.
+vsim -gui work.fullAdder_instantiationTB
+# vsim -gui work.fullAdder_instantiationTB 
+# Start time: 01:30:21 on Oct 20,2022
+# Loading work.fullAdder_instantiationTB
+# Loading work.fullAdder_instantiation
+# Loading work.halfAdder
+add wave -position insertpoint sim:/fullAdder_instantiationTB/dut2/*
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+quit -sim
+# End time: 01:31:55 on Oct 20,2022, Elapsed time: 0:01:34
+# Errors: 0, Warnings: 3
+# Compile of fullAdder_instatiationTB.v was successful.
+vsim -gui work.fullAdder_instantiationTB
+# vsim -gui work.fullAdder_instantiationTB 
+# Start time: 01:32:07 on Oct 20,2022
+# Loading work.fullAdder_instantiationTB
+# Loading work.fullAdder_instantiation
+# Loading work.halfAdder
+add wave -position insertpoint sim:/fullAdder_instantiationTB/dut2/*
+run
+run
+run
+run
+run
+run
+run
+run
+quit -sim
+# End time: 01:32:40 on Oct 20,2022, Elapsed time: 0:00:33
+# Errors: 0, Warnings: 2

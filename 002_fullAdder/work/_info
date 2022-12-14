@@ -1,0 +1,59 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/20.1
+vfullAdder
+!s110 1665729509
+!i10b 1
+!s100 oLGdbm84aZG`?Ng1FV0RU3
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IV7j:@IUc;1UzXG56X42C03
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dZ:/VerilogCodes/ModelSim/002_fullAdder
+w1665729503
+8Z:\VerilogCodes\ModelSim\002_fullAdder\fullAdder.v
+FZ:\VerilogCodes\ModelSim\002_fullAdder\fullAdder.v
+!i122 17
+L0 5 123
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1665729509.000000
+!s107 Z:\VerilogCodes\ModelSim\002_fullAdder\fullAdder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Z:\VerilogCodes\ModelSim\002_fullAdder\fullAdder.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+nfull@adder
+vfullAdderTB
+!s110 1665512353
+!i10b 1
+!s100 h2n<]Lhf`g^iCURRn2MJd0
+R0
+IM7QF?XTU?@;KbOKGOT[WG2
+R1
+R2
+w1665506877
+8Z:/VerilogCodes/ModelSim/002_fullAdder/fullAdderTB.v
+FZ:/VerilogCodes/ModelSim/002_fullAdder/fullAdderTB.v
+!i122 7
+L0 2 32
+R3
+r1
+!s85 0
+31
+!s108 1665512353.000000
+!s107 Z:/VerilogCodes/ModelSim/002_fullAdder/fullAdderTB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Z:/VerilogCodes/ModelSim/002_fullAdder/fullAdderTB.v|
+!i113 1
+R4
+R5
+nfull@adder@t@b

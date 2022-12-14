@@ -1,0 +1,110 @@
+# Compile of add_sub.v was successful.
+# Compile of add_subTB.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.add_sumTB
+# vsim -gui work.add_sumTB 
+# Start time: 20:09:27 on Oct 30,2022
+# Loading work.add_sumTB
+# Loading work.add_sub
+add wave -position insertpoint sim:/add_sumTB/*
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+quit -sim
+# End time: 20:10:44 on Oct 30,2022, Elapsed time: 0:01:17
+# Errors: 0, Warnings: 3
+# Compile of add_sub.v was successful.
+# Compile of add_subTB.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.add_sumTB
+# vsim -gui work.add_sumTB 
+# Start time: 20:11:33 on Oct 30,2022
+# Loading work.add_sumTB
+# Loading work.add_sub
+add wave -position insertpoint sim:/add_sumTB/*
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# Compile of add_sub.v was successful.
+# Compile of add_subTB.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.add_sumTB
+# Loading work.add_sub
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+quit -sim
+# End time: 20:46:28 on Oct 30,2022, Elapsed time: 0:34:55
+# Errors: 0, Warnings: 1
+vsim -gui work.add_sumTB
+# vsim -gui work.add_sumTB 
+# Start time: 20:55:24 on Oct 30,2022
+# Loading work.add_sumTB
+# Loading work.add_sub
+add wave -position insertpoint sim:/add_sumTB/*
+run
+run
+run
+run
+run
+# WARNING: No extended dataflow license exists
+# UVM Details: design does not contain any  UVM components, UVM debugging is disabled, or an  unknown questa_uvm_pkg has been loaded.
+quit -sim
+# End time: 20:56:06 on Oct 30,2022, Elapsed time: 0:00:42
+# Errors: 0, Warnings: 2
+# Compile of add_sub.v was successful.

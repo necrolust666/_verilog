@@ -1,0 +1,108 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dZ:/VerilogCodes/ModelSim/004_fullAdder_NOR
+T_opt
+!s110 1667247488
+VYkIjS=Pmj=o9ShhLZ5lc?2
+04 25 4 work fullAdder_instantiationTB fast 0
+=1-2cf05d67e718-63602d80-232-3790
+o-quiet -auto_acc_if_foreign -work work
+Z0 tCvgOpt 0
+n@_opt
+OL;O;10.7c;67
+vfullAdder_instantiation
+Z1 !s110 1667247468
+!i10b 1
+!s100 cjmK:D29eb2cMizFlGUG73
+I_I_gQhY?MS;c;hF`<gXjT1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dZ:/VerilogCodes/ModelSim/005_fullAdder_instantiation
+Z4 w1666256705
+Z5 8Z:/VerilogCodes/ModelSim/005_fullAdder_instantiation/fullAdder_instantiation.v
+Z6 FZ:/VerilogCodes/ModelSim/005_fullAdder_instantiation/fullAdder_instantiation.v
+L0 8
+Z7 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z8 !s108 1667247468.000000
+Z9 !s107 Z:/VerilogCodes/ModelSim/005_fullAdder_instantiation/fullAdder_instantiation.v|
+Z10 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|Z:/VerilogCodes/ModelSim/005_fullAdder_instantiation/fullAdder_instantiation.v|
+!i113 0
+Z11 o-work work
+R0
+nfull@adder_instantiation
+vfullAdder_instantiationTB
+R1
+!i10b 1
+!s100 E0J4on77@aLgIXlO=7Fag2
+IJ8Rc>3QfZNE4IAz9WKUSX2
+R2
+R3
+w1666209708
+8Z:/VerilogCodes/ModelSim/005_fullAdder_instantiation/fullAdder_instatiationTB.v
+FZ:/VerilogCodes/ModelSim/005_fullAdder_instantiation/fullAdder_instatiationTB.v
+L0 6
+R7
+r1
+!s85 0
+31
+R8
+!s107 Z:/VerilogCodes/ModelSim/005_fullAdder_instantiation/fullAdder_instatiationTB.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|Z:/VerilogCodes/ModelSim/005_fullAdder_instantiation/fullAdder_instatiationTB.v|
+!i113 0
+R11
+R0
+nfull@adder_instantiation@t@b
+vfullAdder_instantiationTB_HA
+R1
+!i10b 1
+!s100 1<_Bdi<OzWmDg_A1077Mm0
+IdIMeDk^of0Jdi69Dc_8Z21
+R2
+R3
+w1666209235
+8Z:/VerilogCodes/ModelSim/005_fullAdder_instantiation/fullAdder_instatiationTB_HA.v
+FZ:/VerilogCodes/ModelSim/005_fullAdder_instantiation/fullAdder_instatiationTB_HA.v
+L0 5
+R7
+r1
+!s85 0
+31
+R8
+!s107 Z:/VerilogCodes/ModelSim/005_fullAdder_instantiation/fullAdder_instatiationTB_HA.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|Z:/VerilogCodes/ModelSim/005_fullAdder_instantiation/fullAdder_instatiationTB_HA.v|
+!i113 0
+R11
+R0
+nfull@adder_instantiation@t@b_@h@a
+vhalfAdder
+R1
+!i10b 1
+!s100 LEVHJ<a`We7UmEk8ebmoL3
+I0Qa4V:bXCD2JF0DKL>hDz3
+R2
+R3
+R4
+R5
+R6
+L0 31
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R0
+nhalf@adder

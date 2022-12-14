@@ -1,0 +1,15 @@
+Z:/VerilogCodes/ModelSim/011_adder_subtractor_modCircuit/addSub_mod.v {1 {vlog -work work -vopt -stats=none Z:/VerilogCodes/ModelSim/011_adder_subtractor_modCircuit/addSub_mod.v
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module addSub_mod
+
+Top level modules:
+	addSub_mod
+
+} {} {}} Z:/VerilogCodes/ModelSim/011_adder_subtractor_modCircuit/addSub_modTB.v {1 {vlog -work work -vopt -stats=none Z:/VerilogCodes/ModelSim/011_adder_subtractor_modCircuit/addSub_modTB.v
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module addSub_modTB
+
+Top level modules:
+	addSub_modTB
+
+} {} {}}

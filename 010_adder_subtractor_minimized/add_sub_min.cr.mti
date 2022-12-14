@@ -1,0 +1,15 @@
+Z:/VerilogCodes/ModelSim/010_adder_subtractor_minimized/add_sub_minTB.v {1 {vlog -work work -stats=none {Z:\VerilogCodes\ModelSim\010_adder_subtractor_minimized\add_sub_minTB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module add_sub_minTB
+
+Top level modules:
+	add_sub_minTB
+
+} {} {}} Z:/VerilogCodes/ModelSim/010_adder_subtractor_minimized/add_sub_min.v {1 {vlog -work work -stats=none Z:/VerilogCodes/ModelSim/010_adder_subtractor_minimized/add_sub_min.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module add_sub_min
+
+Top level modules:
+	add_sub_min
+
+} {} {}}

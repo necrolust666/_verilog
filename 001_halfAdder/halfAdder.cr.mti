@@ -1,0 +1,15 @@
+Z:/VerilogCodes/ModelSim/001_halfAdder/halfAdderTB.v {1 {vlog -work work -stats=none Z:/VerilogCodes/ModelSim/001_halfAdder/halfAdderTB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module halfAdderTB
+
+Top level modules:
+	halfAdderTB
+
+} {} {}} Z:/VerilogCodes/ModelSim/001_halfAdder/halfAdder.v {1 {vlog -work work -stats=none Z:/VerilogCodes/ModelSim/001_halfAdder/halfAdder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module halfAdder
+
+Top level modules:
+	halfAdder
+
+} {} {}}

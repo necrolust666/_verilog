@@ -1,0 +1,83 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dZ:/VerilogCodes/ModelSim/005_fullAdder_instantiation
+vcheckTask
+Z0 !s110 1666336011
+!i10b 1
+!s100 1VLZS3:DOCITOJYlHiih32
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IHi>3;<n1Sh@KU?Y7hi@YI0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dZ:/VerilogCodes/ModelSim/006_celsiusToFarhenheit
+w1666336001
+8Z:/VerilogCodes/ModelSim/006_celsiusToFarhenheit/checkTask.v
+FZ:/VerilogCodes/ModelSim/006_celsiusToFarhenheit/checkTask.v
+Fconversion.v
+!i122 31
+L0 4 22
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1666336011.000000
+!s107 conversion.v|Z:/VerilogCodes/ModelSim/006_celsiusToFarhenheit/checkTask.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Z:/VerilogCodes/ModelSim/006_celsiusToFarhenheit/checkTask.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+ncheck@task
+vcheckTaskTB
+R0
+!i10b 1
+!s100 1D9zDW24MoFI:@Wi7V]?=0
+R1
+I6FEjCbCIc<MII@_iDCUoj1
+R2
+R3
+w1666335867
+8Z:/VerilogCodes/ModelSim/006_celsiusToFarhenheit/checkTaskTB.v
+FZ:/VerilogCodes/ModelSim/006_celsiusToFarhenheit/checkTaskTB.v
+!i122 32
+L0 6 20
+R4
+r1
+!s85 0
+31
+R5
+!s107 Z:/VerilogCodes/ModelSim/006_celsiusToFarhenheit/checkTaskTB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Z:/VerilogCodes/ModelSim/006_celsiusToFarhenheit/checkTaskTB.v|
+!i113 1
+R6
+R7
+ncheck@task@t@b
+vsimple_conversion
+!s110 1666336367
+!i10b 1
+!s100 ]ATX[ZYUejgd?>9ecPGk:0
+R1
+IY;Gn8fQ6ERd5EQ5`;HI:d3
+R2
+R3
+w1666336360
+8Z:/VerilogCodes/ModelSim/006_celsiusToFarhenheit/conversion.v
+FZ:/VerilogCodes/ModelSim/006_celsiusToFarhenheit/conversion.v
+!i122 35
+L0 2 13
+R4
+r1
+!s85 0
+31
+!s108 1666336367.000000
+!s107 Z:/VerilogCodes/ModelSim/006_celsiusToFarhenheit/conversion.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Z:/VerilogCodes/ModelSim/006_celsiusToFarhenheit/conversion.v|
+!i113 1
+R6
+R7
