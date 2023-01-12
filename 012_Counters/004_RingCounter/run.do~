@@ -1,0 +1,8 @@
+vlog ringC.v
+vlog ringC_TB.v
+
+vsim -novopt -suppress 12110 ringC_tb 
+
+add wave -position insertpoint sim:/ringC_tb/*
+
+run -all

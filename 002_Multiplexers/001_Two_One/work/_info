@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dZ:/VerilogCodes/Nikhil_Sir_Projects/002_Multiplexers/001_Two_One
+vtwo_one
+Z1 !s110 1671804805
+!i10b 1
+!s100 0]dZK_3CHkUejjg?LageH1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IFQ@Ki0Xz`nSbEMT3UU;Zg3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1671804631
+8two_one.v
+Ftwo_one.v
+!i122 28
+L0 4 41
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1671804805.000000
+!s107 two_one.v|
+!s90 -reportprogress|300|two_one.v|
+!i113 1
+Z6 tCvgOpt 0
+vtwo_one_tb
+R1
+!i10b 1
+!s100 nRNA:`kh^DML3dbHV4B0S2
+R2
+I]XAKJl^3Z]=V]zcbR`fh62
+R3
+R0
+w1671803305
+8two_one_tb.v
+Ftwo_one_tb.v
+!i122 29
+L0 3 36
+R4
+r1
+!s85 0
+31
+R5
+!s107 two_one_tb.v|
+!s90 -reportprogress|300|two_one_tb.v|
+!i113 1
+R6

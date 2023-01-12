@@ -1,0 +1,8 @@
+Z:/VerilogCodes/Nikhil_Sir_Projects/002_Multiplexers/002_Four_One/four_oneTB.v {1 {vlog -work work -stats=none Z:/VerilogCodes/Nikhil_Sir_Projects/002_Multiplexers/002_Four_One/four_oneTB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module four_oneTb
+
+Top level modules:
+	four_oneTb
+
+} {} {}}

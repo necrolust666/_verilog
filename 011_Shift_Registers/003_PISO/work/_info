@@ -1,0 +1,61 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dZ:/VerilogCodes/Nikhil_Sir_Projects/011_Shift_Registers/003_PISO
+T_opt
+!s110 1672844300
+V=kEefRo9^M>G5JC4dNXoC1
+04 6 4 work pisoTB fast 0
+=1-2cf05d67e718-63b5940c-e7-4f90
+o-quiet -auto_acc_if_foreign -work work -debugdb
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.7c;67
+R0
+vpiso
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 ]7g3O9MVL>N2iRSgX@[d>1
+Ik6?Q6`aR=GRK7U0Xf_B=Q3
+R0
+w1672843213
+8piso.v
+Fpiso.v
+L0 1
+Z3 OL;L;10.7c;67
+31
+Z4 !s108 1672845610.000000
+!s107 piso.v|
+!s90 -reportprogress|300|piso.v|
+!i113 0
+Z5 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vpisoTB
+R2
+r1
+!s85 0
+!i10b 1
+!s100 N?COhZ`aCFn8i@41`UFTD0
+IR3j1TPl4hWoQYEGBSMogC1
+R0
+w1672843363
+8pisoTB.v
+FpisoTB.v
+L0 1
+R3
+31
+R4
+!s107 pisoTB.v|
+!s90 -reportprogress|300|pisoTB.v|
+!i113 0
+R5
+R1
+npiso@t@b

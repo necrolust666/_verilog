@@ -1,0 +1,8 @@
+vlog sipo.v
+vlog sipoTB.v
+
+#vsim -novopt -suppress 12110 sipoTB 
+
+#add wave -position insertpoint sim:/sipoTB/*
+
+#run -all

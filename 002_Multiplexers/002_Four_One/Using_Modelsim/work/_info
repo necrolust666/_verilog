@@ -1,0 +1,104 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dZ:/VerilogCodes/Nikhil_Sir_Projects/002_Multiplexers/002_Four_One
+vfour_one
+Z0 !s110 1671867408
+!i10b 1
+!s100 P8AGHE]ibJ^X>0zhVmMNk0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IkTRWLl7[0c1mMCBYa[ZIW3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dZ:/VerilogCodes/Nikhil_Sir_Projects/002_Multiplexers/002_Four_One/Using_Modelsim
+Z4 w1671867390
+Z5 8Z:\VerilogCodes\Nikhil_Sir_Projects\002_Multiplexers\002_Four_One\four_one.v
+Z6 FZ:\VerilogCodes\Nikhil_Sir_Projects\002_Multiplexers\002_Four_One\four_one.v
+!i122 14
+L0 1 26
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1671867408.000000
+Z9 !s107 Z:\VerilogCodes\Nikhil_Sir_Projects\002_Multiplexers\002_Four_One\four_one.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|Z:\VerilogCodes\Nikhil_Sir_Projects\002_Multiplexers\002_Four_One\four_one.v|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+vfour_one_mux_tb
+!s110 1671859958
+!i10b 1
+!s100 ^SI^<@mR:F7@F^@P8VUni0
+R1
+I]kWl7BGFERTKzV^g3Eha50
+R2
+R3
+w1671804335
+Z13 8Z:/VerilogCodes/Nikhil_Sir_Projects/002_Multiplexers/002_Four_One/four_oneTB.v
+Z14 FZ:/VerilogCodes/Nikhil_Sir_Projects/002_Multiplexers/002_Four_One/four_oneTB.v
+!i122 1
+L0 3 40
+R7
+r1
+!s85 0
+31
+!s108 1671859958.000000
+!s107 Z:/VerilogCodes/Nikhil_Sir_Projects/002_Multiplexers/002_Four_One/four_oneTB.v|
+Z15 !s90 -reportprogress|300|-work|work|-stats=none|Z:/VerilogCodes/Nikhil_Sir_Projects/002_Multiplexers/002_Four_One/four_oneTB.v|
+!i113 1
+R11
+R12
+vfour_oneTb
+!s110 1671867409
+!i10b 1
+!s100 2zKX@i2C0c=jg^@f4E;E@0
+R1
+I=HWMTB?^Ofo9Yo1KM02D51
+R2
+R3
+w1671863273
+R13
+R14
+!i122 15
+L0 3 83
+R7
+r1
+!s85 0
+31
+!s108 1671867409.000000
+Z16 !s107 Z:/VerilogCodes/Nikhil_Sir_Projects/002_Multiplexers/002_Four_One/four_oneTB.v|
+R15
+!i113 1
+R11
+R12
+nfour_one@tb
+vtwo_one
+R0
+!i10b 1
+!s100 AhhH:J@4OlLEbLKGnHnP_2
+R1
+IDWHAN14X;>DoOGaXI6A<Z3
+R2
+R3
+R4
+R5
+R6
+!i122 14
+L0 30 16
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12

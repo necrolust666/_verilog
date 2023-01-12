@@ -1,0 +1,72 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dZ:/VerilogCodes/Nikhil_Sir_Projects/012_Counters/003_UP_DownCounter_with_T_FF
+vt_ff
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 eT?AGHOVLMDK[3Fl@L@?^3
+IP4W_?>iMT;;]6g@ng9O<D0
+R0
+Z2 w1673248795
+Z3 8upDown_T.v
+Z4 FupDown_T.v
+L0 30
+Z5 OL;L;10.7c;67
+31
+Z6 !s108 1673250054.000000
+Z7 !s107 upDown_T.v|
+Z8 !s90 -reportprogress|300|upDown_T.v|
+!i113 0
+Z9 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z10 tCvgOpt 0
+vupDown_T
+R1
+r1
+!s85 0
+!i10b 1
+!s100 Pb@kn;4:;M6X`az]^Ahh83
+ImbLz8XGlkY:Z5f^fUe9_K2
+R0
+R2
+R3
+R4
+L0 2
+R5
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+nup@down_@t
+vupDown_T_tb
+R1
+r1
+!s85 0
+!i10b 1
+!s100 :B>DHoL1>UnCG0gYbY@3?1
+ISX@LHNPC@m>5XFhe2BU^X3
+R0
+w1673250052
+8upDown_T_tb.v
+FupDown_T_tb.v
+L0 1
+R5
+31
+!s108 1673250055.000000
+!s107 upDown_T_tb.v|
+!s90 -reportprogress|300|upDown_T_tb.v|
+!i113 0
+R9
+R10
+nup@down_@t_tb

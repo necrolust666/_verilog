@@ -1,0 +1,31 @@
+module d_ff(
+		// Synchronous Inputs
+		input	d,
+		input clk,
+
+		// Reset Input
+		input reset,	// Clear
+
+		output	reg q,
+		output	reg qbar
+					);
+
+// DUT
+
+// Edge Sensitive/Triggered Synchronous Flop
+always @(posedge clk)
+
+	if(reset)
+		begin
+		q		=	1'b0;
+		qbar	=	~q;
+		end
+
+	else
+		begin
+		q	= 	d;	// Characterisic Equation
+		qbar	<= 	~q;
+		end
+	
+endmodule
+

@@ -1,0 +1,35 @@
+module ringC_TB;
+
+reg CLK = 0;
+reg [3:0]IP;
+reg [1:0]SEL;
+
+wire [3:0]BUFF;
+wire [3:0]OP;
+
+ringC dut(
+		.ip(IP),
+		.clk(CLK),
+		.sel(SEL),
+		.buff(BUFF),
+		.op(OP)
+				);
+
+initial begin	
+		@(posedge CLK) SEL = 00; IP = 4'b0001;	
+		@(posedge CLK)
+		@(posedge CLK) SEL = 10; 
+	end
+
+
+initial begin
+	forever #10 CLK = ~CLK;
+end
+
+initial begin
+	#500; $finish;
+end
+
+
+
+endmodule

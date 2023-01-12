@@ -1,0 +1,32 @@
+module piso(
+		input clk,
+		input reset_n,	// Active Low Reset
+		input [3:0]pdi,	// Parallel Data In
+		input sel,	// Select line for Serial Output or Parallel Input  
+
+		output sdo,	// Serial Data Out
+		
+		output [3:0]piso_r	
+					);
+
+always @(posedge clk or negedge reset_n)
+	begin
+		if(!reset_n)
+		begin	piso_r = 4'b0000;	end
+
+		else
+			begin
+				if(sel) 
+					begin
+						piso_r[3:0] <= pdi[3:0];
+					end
+					
+				else	begin
+						piso_r[3:0] <= piso_r[3:0]<<1;
+						sdo	<= piso_r[3];	
+					end				
+			end
+
+	end
+
+endmodule

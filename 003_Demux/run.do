@@ -1,0 +1,13 @@
+vlog tb.v
+vlog one_four.v
+vsim -novopt -suppress 12110 demux_tb
+add wave -position insertpoint sim:/demux_tb/*
+
+
+# for 1x2 demux
+#vlog one_two_demux.v
+#vsim -novopt -suppress 12110 demux_tb
+#add wave -position insertpoint sim:/demux_tb/*
+
+
+run -all

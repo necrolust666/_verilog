@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dZ:/VerilogCodes/Nikhil_Sir_Projects/011_Shift_Registers/004_PIPO
+vpipo
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 NfT^GfAT:LnJBf=2Cd2R`2
+IP0`C<aPl1Om_^mRDBWTz12
+R0
+w1672845862
+8pipo.v
+Fpipo.v
+L0 1
+Z2 OL;L;10.7c;67
+31
+Z3 !s108 1672845872.000000
+!s107 pipo.v|
+!s90 -reportprogress|300|pipo.v|
+!i113 0
+Z4 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z5 tCvgOpt 0
+vpipoTB
+R1
+r1
+!s85 0
+!i10b 1
+!s100 B`WZ>z_<]ONG`XJIYT0213
+IQ^==JQNzQTTff=28bLjk03
+R0
+w1672845826
+Z6 8pipoTB.v
+Z7 FpipoTB.v
+L0 1
+R2
+31
+R3
+Z8 !s107 pipoTB.v|
+Z9 !s90 -reportprogress|300|pipoTB.v|
+!i113 0
+R4
+R5
+npipo@t@b
+vpisoTB
+!s110 1672845747
+!i10b 1
+!s100 K;LmGi0U:XooSTIBMI=FT3
+IoC8C1BMf]1>_7]2STz[lI3
+R1
+R0
+w1672845746
+R6
+R7
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1672845747.000000
+R8
+R9
+!i113 0
+R4
+R5
+npiso@t@b

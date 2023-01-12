@@ -1,0 +1,92 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dZ:/VerilogCodes/Nikhil_Sir_Projects/005_Gray_to_Binary
+vbin2gray
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 Ml72>icc9LT@:[8ZOc7mH3
+IIf^I;[o5DL<5l3Z3QgXT52
+R0
+w1672129472
+Z2 8gray2bin.v
+Z3 Fgray2bin.v
+L0 1
+Z4 OL;L;10.7c;67
+31
+!s108 1672129580.000000
+Z5 !s107 gray2bin.v|
+Z6 !s90 -reportprogress|300|gray2bin.v|
+!i113 0
+Z7 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z8 tCvgOpt 0
+vbin2gray_tb
+!s110 1672129581
+!i10b 1
+!s100 8]jhP7jYHH7DE4YcXTf392
+I=PET@gfG^i`mfofJno`@i1
+R1
+R0
+w1672128618
+Z9 8gray2bin_tb.v
+Z10 Fgray2bin_tb.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1672129581.000000
+Z11 !s107 gray2bin_tb.v|
+Z12 !s90 -reportprogress|300|gray2bin_tb.v|
+!i113 0
+R7
+R8
+vgray2bin
+!s110 1672129686
+!i10b 1
+!s100 iDNWXaR?n^]0K@j@OTM_o3
+IR=2JjY]:z7L7fzQ1HLa0b1
+R1
+R0
+w1672129653
+R2
+R3
+L0 1
+R4
+r1
+!s85 0
+31
+Z13 !s108 1672129686.000000
+R5
+R6
+!i113 0
+R7
+R8
+vgray2bin_tb
+R1
+r1
+!s85 0
+!i10b 1
+!s100 3f9NS]WI9@hU>GWSFngm60
+I1JREYXf^hNobVXBJeS`]S1
+R0
+w1672129674
+R9
+R10
+L0 1
+R4
+31
+R13
+R11
+R12
+!i113 0
+R7
+R8

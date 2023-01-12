@@ -1,0 +1,5 @@
+vlog two_one.v
+vlog two_one_tb.v
+vsim -novopt -suppress 12110 two_one_tb
+add wave -position insertpoint sim:/two_one_tb/*
+run -all

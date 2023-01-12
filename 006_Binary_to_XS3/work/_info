@@ -1,0 +1,51 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dZ:/VerilogCodes/Nikhil_Sir_Projects/006_Binary_to_XS3
+vbin2xs3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 gjMGK6j32L45I28EPI3C11
+IQ5Ob0g9gohO;XgaNGCzf12
+R0
+w1672139618
+8bin2xs3.v
+Fbin2xs3.v
+L0 1
+Z2 OL;L;10.7c;67
+31
+Z3 !s108 1672139642.000000
+!s107 bin2xs3.v|
+!s90 -reportprogress|300|bin2xs3.v|
+!i113 0
+Z4 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z5 tCvgOpt 0
+vbin2xs3_tb
+R1
+r1
+!s85 0
+!i10b 1
+!s100 cXnRh98gPRD^SLMiKh34_1
+IY[TcNDGW;8]jcDR?UT:RC1
+R0
+w1672131026
+8bin2xs3_tb.v
+Fbin2xs3_tb.v
+L0 1
+R2
+31
+R3
+!s107 bin2xs3_tb.v|
+!s90 -reportprogress|300|bin2xs3_tb.v|
+!i113 0
+R4
+R5

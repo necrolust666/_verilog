@@ -1,0 +1,44 @@
+module bin2gray_tb;
+
+reg [3:0]BIN;
+wire [3:0]GRAY;
+
+bin2gray dut(
+		.bin(BIN),
+		.gray(GRAY)
+				);
+				
+initial 
+begin
+
+/*
+	// Initialize 
+		BIN = 4'b0000;
+
+#100	BIN = 4'b0000;	
+#100	BIN = 4'b0001;	
+#100	BIN = 4'b0010;	
+#100	BIN = 4'b0011;	
+#100	BIN = 4'b0100;	
+#100	BIN = 4'b0101;	
+#100	BIN = 4'b0110;	
+#100	BIN = 4'b0111;	
+#100	BIN = 4'b1000;	
+#100	BIN = 4'b1001;	
+#100	BIN = 4'b1010;	
+#100	BIN = 4'b1011;	
+#100	BIN = 4'b1100;	
+#100	BIN = 4'b1101; 	
+#100	BIN = 4'b1110;
+#100	BIN = 4'b1111;	
+*/
+
+
+// User Input 
+$value$plusargs("BIN=%b", BIN);
+
+end 
+
+initial begin #2000 $finish; end
+
+endmodule

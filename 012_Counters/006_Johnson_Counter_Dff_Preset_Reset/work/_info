@@ -1,0 +1,72 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dZ:/VerilogCodes/Nikhil_Sir_Projects/012_Counters/006_Johnson_Counter_Dff_Preset_Reset
+vd_ff
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 el9J9kToMzZo2ohbBkEV20
+IzLV2XTDMDRTTAijEfOWbJ3
+R0
+Z2 w1673279293
+Z3 8johnson_Dff.v
+Z4 Fjohnson_Dff.v
+L0 28
+Z5 OL;L;10.7c;67
+31
+Z6 !s108 1673279378.000000
+Z7 !s107 johnson_Dff.v|
+Z8 !s90 -reportprogress|300|johnson_Dff.v|
+!i113 0
+Z9 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z10 tCvgOpt 0
+vjohnson_Dff
+R1
+r1
+!s85 0
+!i10b 1
+!s100 dEMgj1GMj:9Jf3f0:2R5_1
+I_BGz?<LDBUid=Di3Q<:KS1
+R0
+R2
+R3
+R4
+L0 3
+R5
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+njohnson_@dff
+vjohnson_Dff_tb
+R1
+r1
+!s85 0
+!i10b 1
+!s100 Y4eeDP<C3kzz;U_WH?MV`0
+I>>kE?g:oY65MR6F89<z2h2
+R0
+w1673279309
+8johnson_Dff_tb.v
+Fjohnson_Dff_tb.v
+L0 1
+R5
+31
+R6
+!s107 johnson_Dff_tb.v|
+!s90 -reportprogress|300|johnson_Dff_tb.v|
+!i113 0
+R9
+R10
+njohnson_@dff_tb

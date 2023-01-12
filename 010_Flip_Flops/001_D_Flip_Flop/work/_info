@@ -1,0 +1,92 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dZ:/VerilogCodes/Nikhil_Sir_Projects/010_Flip_Flops
+vd_ff
+Z0 !s110 1672685810
+!i10b 1
+!s100 T5ngZH4_d>BkIze8e4N8@2
+I9jn[EhkQR>1oMbnhk;2cO3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dZ:/VerilogCodes/Nikhil_Sir_Projects/010_Flip_Flops/001_D_Flip_Flop
+w1672683104
+8d_ff.v
+Fd_ff.v
+L0 1
+Z3 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z4 !s108 1672685810.000000
+!s107 d_ff.v|
+!s90 -reportprogress|300|d_ff.v|
+!i113 0
+Z5 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z6 tCvgOpt 0
+vd_ff_async
+R1
+r1
+!s85 0
+!i10b 1
+!s100 ca3:FOW6_MOndj0[8Gkh93
+I?UJ:@KLB=bo2Mafo]agPb0
+R2
+w1672685804
+8d_ff_async.v
+Fd_ff_async.v
+L0 1
+R3
+31
+R4
+!s107 d_ff_async.v|
+!s90 -reportprogress|300|d_ff_async.v|
+!i113 0
+R5
+R6
+vd_latch
+R0
+!i10b 1
+!s100 <czeGf=18DPXR`ilio`f]3
+ISi2:CWJ70<hMWb2d5W?eh3
+R1
+R2
+w1672677353
+8d_latch.v
+Fd_latch.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 d_latch.v|
+!s90 -reportprogress|300|d_latch.v|
+!i113 0
+R5
+R6
+vtst_d
+R1
+r1
+!s85 0
+!i10b 1
+!s100 Oi<gPiH?KZ<41XQ`J=1ib1
+IoH4oiTf2nS:CjRRWcOdA32
+R2
+w1672685691
+8tst_d.v
+Ftst_d.v
+L0 2
+R3
+31
+R4
+!s107 tst_d.v|
+!s90 -reportprogress|300|tst_d.v|
+!i113 0
+R5
+R6

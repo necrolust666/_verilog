@@ -1,0 +1,114 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dZ:/VerilogCodes/Nikhil_Sir_Projects/012_Counters/001_UpCounter_with_T_FF
+vdown_T
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 QnZnXDSzV9P[:Z]^67`FT0
+IE;oB2nzRC:26`aNnEd?0I3
+Z2 dZ:/VerilogCodes/Nikhil_Sir_Projects/012_Counters/002_DownCounter_with_T_FF
+Z3 w1673083459
+Z4 8down_T.v
+Z5 Fdown_T.v
+L0 2
+Z6 OL;L;10.7c;67
+31
+Z7 !s108 1673083674.000000
+Z8 !s107 down_T.v|
+Z9 !s90 -reportprogress|300|down_T.v|
+!i113 0
+Z10 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z11 tCvgOpt 0
+ndown_@t
+vdown_T_tb
+R1
+r1
+!s85 0
+!i10b 1
+!s100 En2zRVnG_3bSclBadW4fN3
+IP^FnOVTboQGJ9D454kM_60
+R2
+w1673083672
+8down_T_tb.v
+Fdown_T_tb.v
+L0 1
+R6
+31
+R7
+!s107 down_T_tb.v|
+!s90 -reportprogress|300|down_T_tb.v|
+!i113 0
+R10
+R11
+ndown_@t_tb
+vt_ff
+R1
+r1
+!s85 0
+!i10b 1
+!s100 0CK[keV3EFd<HmJTkgIgm1
+Io>eH7EJ`JW51ThSW6]XT71
+R2
+R3
+R4
+R5
+L0 24
+R6
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+vup_T
+R1
+r1
+!s85 0
+!i10b 1
+!s100 R`DCOmB][UA[moDn:Q`Ue3
+I3<2^0E[]9@K56H75Im;U40
+R0
+w1673027172
+8up_T.v
+Fup_T.v
+L0 2
+R6
+31
+Z12 !s108 1673027423.000000
+!s107 up_T.v|
+!s90 -reportprogress|300|up_T.v|
+!i113 0
+R10
+R11
+nup_@t
+vup_T_tb
+R1
+r1
+!s85 0
+!i10b 1
+!s100 K4MCWGCO4?=j<`aYCc2FE0
+IKARB5DffojioC`G;A:W=m2
+R0
+w1673027418
+8up_T_tb.v
+Fup_T_tb.v
+L0 1
+R6
+31
+R12
+!s107 up_T_tb.v|
+!s90 -reportprogress|300|up_T_tb.v|
+!i113 0
+R10
+R11
+nup_@t_tb

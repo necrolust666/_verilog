@@ -1,0 +1,51 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dZ:/VerilogCodes/Nikhil_Sir_Projects/011_Shift_Registers/005_Universal_Shift_Register
+vusr
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 eH`=AeRL`nEEDFaYQ22IG1
+I@JdbYm^][lADCo5dn@SAY3
+R0
+w1672926842
+8usr.v
+Fusr.v
+L0 1
+Z2 OL;L;10.7c;67
+31
+Z3 !s108 1673333204.000000
+!s107 usr.v|
+!s90 -reportprogress|300|usr.v|
+!i113 0
+Z4 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z5 tCvgOpt 0
+vusrTB
+R1
+r1
+!s85 0
+!i10b 1
+!s100 g4JG9WoD<0BU0jPFDZDl;3
+IjMOS^QYU72?]@HZWCUiR?1
+R0
+w1672926847
+8usrTB.v
+FusrTB.v
+L0 1
+R2
+31
+R3
+!s107 usrTB.v|
+!s90 -reportprogress|300|usrTB.v|
+!i113 0
+R4
+R5
+nusr@t@b

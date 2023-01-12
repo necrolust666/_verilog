@@ -1,0 +1,13 @@
+vlog bin2gray.v
+vlog bin2gray_tb.v
+vsim -novopt -suppress 12110 bin2gray_tb
+add wave -position insertpoint sim:/bin2gray_tb/*
+
+
+# for 1x2 demux
+#vlog one_two_demux.v
+#vsim -novopt -suppress 12110 demux_tb
+#add wave -position insertpoint sim:/demux_tb/*
+
+
+run -all

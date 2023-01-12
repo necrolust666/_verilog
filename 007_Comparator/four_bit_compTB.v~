@@ -1,0 +1,36 @@
+`timescale 1ns/1ns
+
+module four_bit_compTB;
+
+reg [4:1]A;
+reg [4:1]B;
+
+wire G, E, S;
+
+four_bit_comp dut (
+			.a(A),
+			.b(B),
+			.g(G),
+			.e(E),
+			.s(S)
+				);
+
+initial 
+begin 
+	// Initialize
+	A = 4'b0000; B = 4'b0000;
+#100	A = 4'b1010; B = 4'b0101;
+#100 	A = 4'b0100; B = 4'b1000;
+#100 	A = 4'd7;    B = 4'd6;
+#100 	A = 4'ha;    B = 4'hf;
+#100 	A = 4'b0100; B = 4'b0100;
+
+end
+
+initial 
+begin
+	#1000	$finish;
+end
+
+
+endmodule

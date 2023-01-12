@@ -1,0 +1,91 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dZ:/VerilogCodes/Nikhil_Sir_Projects/011_Shift_Registers/005_Universal_Shift_Register_New_Perspective
+vd_ff
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 ]Kjm9mL3e4X_aPCWf6m6Y0
+IHV[bEmzL>gE8fRcQ3=aF?3
+R0
+Z2 w1673302267
+Z3 8usr.v
+Z4 Fusr.v
+L0 50
+Z5 OL;L;10.7c;67
+31
+Z6 !s108 1673348233.000000
+Z7 !s107 usr.v|
+Z8 !s90 -reportprogress|300|usr.v|
+!i113 0
+Z9 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z10 tCvgOpt 0
+vdemux
+R1
+r1
+!s85 0
+!i10b 1
+!s100 21TSdQYUof9LjGQJdQoLP1
+I=I_V:jaWfJEbL@BH5Jg^33
+R0
+R2
+R3
+R4
+L0 29
+R5
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+vusr
+R1
+r1
+!s85 0
+!i10b 1
+!s100 @l@FVkT`l9>C8<cIDnbA@1
+IG5eSQl32zMM8AAK8I5fzB1
+R0
+R2
+R3
+R4
+L0 1
+R5
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+vusrTB
+R1
+r1
+!s85 0
+!i10b 1
+!s100 @CYfYeFjOVaedKQLAJ6BK0
+IPW[ImVi1CaWcRaWS1<9_93
+R0
+w1673348229
+8usrTB.v
+FusrTB.v
+L0 1
+R5
+31
+R6
+!s107 usrTB.v|
+!s90 -reportprogress|300|usrTB.v|
+!i113 0
+R9
+R10
+nusr@t@b

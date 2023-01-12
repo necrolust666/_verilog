@@ -1,0 +1,7 @@
+vlog alu.v
+vlog tst.v
+vsim -novopt -suppress 12110 tst 
+
+add wave -position insertpoint sim:/tst/*
+
+run -all

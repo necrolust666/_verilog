@@ -1,0 +1,42 @@
+`timescale 1ns/1ns
+
+module four_one_mux_tb;
+
+reg S;
+reg [1:0]I;
+
+wire Y;
+
+// Instantiate
+four_one dut(
+		.i0(I[0]),
+		.i1(I[1]),
+		.s(S),
+		.y(Y)
+		);
+
+always @(*)
+
+begin
+
+	// Initialize 
+	S = 0; I = 2'b00;
+	
+	#100	S = 0; I = 01; 
+
+	#100	S = 0; I = 01; 
+	#100	S = 0; I = 01; 
+	#100	S = 0; I = 01; 
+	#100	S = 0; I = 01; 
+	#100	S = 0; I = 01; 
+	#100	S = 0; I = 01; 
+	#100	S = 0; I = 01; 
+	#100	S = 0; I = 01; 
+end
+
+initial 
+begin 
+	#1500 $finish;
+end
+
+endmodule

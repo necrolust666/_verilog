@@ -1,0 +1,68 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dZ:/VerilogCodes/Nikhil_Sir_Projects/003_Demux
+vdemux_tb
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 ^G;Y0LbTLK2Pf6=RmaIb81
+IUz@afRSTJWK[hhlNdLMii1
+R0
+w1672112895
+8tb.v
+Ftb.v
+L0 3
+Z2 OL;L;10.7c;67
+31
+Z3 !s108 1672115626.000000
+!s107 tb.v|
+!s90 -reportprogress|300|tb.v|
+!i113 0
+Z4 tCvgOpt 0
+vone_four
+R1
+r1
+!s85 0
+!i10b 1
+!s100 Q=ENMCj9IGJ8JfdFf5hR52
+IXZ2[51OO0ohOZ;=8^A?5K1
+R0
+w1672115620
+8one_four.v
+Fone_four.v
+L0 1
+R2
+31
+R3
+!s107 one_four.v|
+!s90 -reportprogress|300|one_four.v|
+!i113 0
+R4
+vone_two
+R1
+r1
+!s85 0
+!i10b 1
+!s100 e]hozFjnVPC>ER52Je>1U0
+Icl?b@`?iEAM]h8A5X6MR[2
+R0
+w1672111030
+8one_two_demux.v
+Fone_two_demux.v
+L0 1
+R2
+31
+!s108 1672112449.000000
+!s107 one_two_demux.v|
+!s90 -reportprogress|300|one_two_demux.v|
+!i113 0
+R4

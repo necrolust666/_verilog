@@ -1,0 +1,55 @@
+module sisoTB;
+
+reg CLK = 0, RST_N, SDI;
+wire SDO;
+wire [3:0]SISO;
+
+siso dut(
+		.clk(CLK),
+		.reset_n(RST_N),
+		.sdi(SDI),
+		.sdo(SDO),
+		.siso_r(SISO)		);
+		
+
+	// Create Stimulus
+	initial begin 
+			// Reset Apply 
+			RST_N = 1'b0;	SDI = 0;
+			#15 // Delay
+
+			// Reset Removal
+			RST_N = 1'b1;	SDI = 0;
+			#15 // Delay
+
+		
+		repeat(15)	@(posedge CLK);
+		// 1011 in SISO - STORING DATA
+			@(posedge CLK);	SDI = 1;
+			@(posedge CLK);	SDI = 0;
+			@(posedge CLK);	SDI = 1;
+			@(posedge CLK);	SDI = 1;
+
+		// ACCESSING DATA
+			@(posedge CLK);	SDI = 0;
+			//@(posedge CLK);	SDI = 0;
+			//@(posedge CLK);	SDI = 0;
+			//@(posedge CLK);	SDI = 0;
+
+
+		#50	RST_N = 0; SDI = 0;	#100; // Reset Apply 
+	end
+
+	// Clk Generation
+	 initial
+	 begin		forever	CLK = #5 ~CLK;
+	 end
+
+
+	// Simulation Time
+	initial begin
+			#500	$finish;
+	end	
+
+
+endmodule

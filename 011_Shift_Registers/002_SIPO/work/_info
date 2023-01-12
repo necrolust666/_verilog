@@ -1,0 +1,51 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dZ:/VerilogCodes/Nikhil_Sir_Projects/011_Shift_Registers/002_SIPO
+vsipo
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 0ZLc9on<i^k8jc2HH>?TL2
+IQjT1=c9nHhidM2jae]IG<1
+R0
+w1672837877
+8sipo.v
+Fsipo.v
+L0 1
+Z2 OL;L;10.7c;67
+31
+Z3 !s108 1672838147.000000
+!s107 sipo.v|
+!s90 -reportprogress|300|sipo.v|
+!i113 0
+Z4 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z5 tCvgOpt 0
+vsipoTB
+R1
+r1
+!s85 0
+!i10b 1
+!s100 DGLJfP85[kE[noLQ6lCgh3
+IIYHKeDSC<`>GKfD?`^AeO0
+R0
+w1672838124
+8sipoTB.v
+FsipoTB.v
+L0 1
+R2
+31
+R3
+!s107 sipoTB.v|
+!s90 -reportprogress|300|sipoTB.v|
+!i113 0
+R4
+R5
+nsipo@t@b

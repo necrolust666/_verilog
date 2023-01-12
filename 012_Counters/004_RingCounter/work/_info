@@ -1,0 +1,53 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dZ:/VerilogCodes/Nikhil_Sir_Projects/012_Counters/004_RingCounter
+vringC
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 8SBPK4Pb588nm;ETBIlFJ3
+I_83ej??KH0HW1AKZdV4Z72
+R0
+w1673266786
+8ringC.v
+FringC.v
+L0 1
+Z2 OL;L;10.7c;67
+31
+Z3 !s108 1673266791.000000
+!s107 ringC.v|
+!s90 -reportprogress|300|ringC.v|
+!i113 0
+Z4 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z5 tCvgOpt 0
+nring@c
+vringC_TB
+R1
+r1
+!s85 0
+!i10b 1
+!s100 Dj3H8>jI3>HY4VoBg?gc01
+I4R6Q5eYJ8ed_HJABbi28i2
+R0
+w1673266742
+8ringC_TB.v
+FringC_TB.v
+L0 1
+R2
+31
+R3
+!s107 ringC_TB.v|
+!s90 -reportprogress|300|ringC_TB.v|
+!i113 0
+R4
+R5
+nring@c_@t@b

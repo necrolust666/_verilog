@@ -1,0 +1,63 @@
+`timescale 1ns/1ns
+
+module demux_tb;
+
+
+reg I;
+reg [1:0]S;
+
+wire [3:0]Y;
+
+one_four dut(	.i(I),  
+		.s(S), 
+		.y(Y)	
+			);	
+// Initializing
+initial
+begin 
+
+	// Initialize
+	I = 1'b1; S = 2'b00;
+#100	I = 1'b1; S = 2'b01;
+#100	I = 1'b1; S = 2'b10;
+#100	I = 1'b1; S = 2'b11;
+
+end
+
+initial 
+	begin
+		#500 $finish;
+	end
+
+
+
+/*
+// 1x2 Demux TB
+reg I;
+reg S;
+wire [1:0]Y;
+
+
+one_two dut(
+		.i(I),
+		.s(S),
+		.y(Y)	);
+
+initial 
+	begin 
+
+		// Initializing
+		
+		I = 1'b0; S = 2'b0;		
+	#100	I = 1'b1; S = 2'b0;		
+	#100	I = 1'b0; S = 2'b1;		
+	#100	I = 1'b1; S = 2'b0;		
+	#100	I = 1'b0; S = 2'b1;		
+	#100	I = 1'b1; S = 2'b0;		
+	#100	I = 1'b0; S = 2'b1;	
+
+	end
+*/
+
+endmodule
+
