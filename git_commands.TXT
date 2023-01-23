@@ -17,4 +17,4 @@ git commit -m "message! to check it worked" 			// Commit -> 	Local Database -> G
 
 git pull 		// other/existing member's in the project files are to be merged alongwith mine
 
-git push
+git push		// done dana done

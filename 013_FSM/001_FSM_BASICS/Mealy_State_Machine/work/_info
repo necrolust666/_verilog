@@ -1,0 +1,184 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dZ:/VerilogCodes/Nikhil_Sir_Projects/013_FSM/001_FSM_BASICS/Mealy_State_Machine
+vFSM_1
+!s110 1673964822
+!i10b 1
+!s100 z;OJHHe9_[^:d]@7HA4:e1
+I@L4[6XO8OFaAEg45i^?mR3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1673964058
+Z2 8FSM_1_Mealy.v
+Z3 FFSM_1_Mealy.v
+L0 3
+Z4 OL;L;10.7c;67
+r1
+!s85 0
+31
+!s108 1673964822.000000
+Z5 !s107 FSM_1_Mealy.v|
+Z6 !s90 -reportprogress|300|FSM_1_Mealy.v|
+!i113 0
+Z7 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z8 tCvgOpt 0
+n@f@s@m_1
+vFSM_1_Mealy
+Z9 !s110 1673969785
+!i10b 1
+!s100 mBMB6>4B=1[aeQ`ELmW==1
+I6^OFSa1^InnH_4TVJb8ZU1
+R1
+R0
+w1673966894
+R2
+R3
+L0 3
+R4
+r1
+!s85 0
+31
+Z10 !s108 1673969785.000000
+R5
+R6
+!i113 0
+R7
+R8
+n@f@s@m_1_@mealy
+vFSM_2_Mealy
+!s110 1673964224
+!i10b 1
+!s100 SiXeFmSNNbZ]SDdnUM:6F3
+Ik6NDRPdNlo?KH7f@zDHYA2
+R1
+R0
+w1673951747
+Z11 8FSM_2_Mealy.v
+Z12 FFSM_2_Mealy.v
+Z13 L0 10
+R4
+r1
+!s85 0
+31
+!s108 1673964224.000000
+Z14 !s107 FSM_2_Mealy.v|
+Z15 !s90 -reportprogress|300|FSM_2_Mealy.v|
+!i113 0
+R7
+R8
+n@f@s@m_2_@mealy
+vFSM_3
+!s110 1673951734
+!i10b 1
+!s100 IGc<L6ikJFfCn;NAiMmd[3
+Iai]l]Y@[TjO0gQ=MiNBIM0
+R1
+R0
+w1673951503
+R11
+R12
+R13
+R4
+r1
+!s85 0
+31
+!s108 1673951734.000000
+R14
+R15
+!i113 0
+R7
+R8
+n@f@s@m_3
+vFSM_3_Mealy
+R1
+r1
+!s85 0
+!i10b 1
+!s100 0ATgEeT_GjSR3lTELA=_i3
+IFMbd=Z`g=aAZE4?d0D]Hn0
+R0
+w1673951673
+8FSM_3_Mealy.v
+FFSM_3_Mealy.v
+R13
+R4
+31
+R10
+!s107 FSM_3_Mealy.v|
+!s90 -reportprogress|300|FSM_3_Mealy.v|
+!i113 0
+R7
+R8
+n@f@s@m_3_@mealy
+vFSM_TB
+!s110 1673950046
+!i10b 1
+!s100 1`UHg_jNHl@lPOK0gg_0P3
+I;UngXMFX[<;NmU@L:9ZP[0
+R1
+R0
+w1673950015
+Z16 8FSM_TB_Mealy.v
+Z17 FFSM_TB_Mealy.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1673950046.000000
+Z18 !s107 FSM_TB_Mealy.v|
+Z19 !s90 -reportprogress|300|FSM_TB_Mealy.v|
+!i113 0
+R7
+R8
+n@f@s@m_@t@b
+vFSM_TB_1_Mealy
+R9
+!i10b 1
+!s100 >RM6EX5;7LWEUCg0cJe1m0
+Ii^GI^>aA<87JTmLINbFdP2
+R1
+R0
+w1673964613
+8FSM_TB_1_Mealy.v
+FFSM_TB_1_Mealy.v
+L0 1
+R4
+r1
+!s85 0
+31
+R10
+!s107 FSM_TB_1_Mealy.v|
+!s90 -reportprogress|300|FSM_TB_1_Mealy.v|
+!i113 0
+R7
+R8
+n@f@s@m_@t@b_1_@mealy
+vFSM_TB_Mealy
+R1
+r1
+!s85 0
+!i10b 1
+!s100 i=cAa6=dKFn`_kVLeSo240
+IJ]KX<J6CFlU>@CL:5mgYg2
+R0
+w1673965000
+R16
+R17
+L0 1
+R4
+31
+R10
+R18
+R19
+!i113 0
+R7
+R8
+n@f@s@m_@t@b_@mealy

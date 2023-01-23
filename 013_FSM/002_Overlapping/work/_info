@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dZ:/VerilogCodes/Nikhil_Sir_Projects/013_FSM/003_Overlapping
+vseqDet_111
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 OWk87FNLnFYW;GCad93=I3
+IU@WIK3NSha0BnYk1>>ELi2
+R0
+w1674477333
+8seqDet_111.v
+FseqDet_111.v
+L0 5
+Z2 OL;L;10.7c;67
+31
+Z3 !s108 1674477555.000000
+!s107 seqDet_111.v|
+!s90 -reportprogress|300|seqDet_111.v|
+!i113 0
+Z4 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z5 tCvgOpt 0
+nseq@det_111
+vseqDet_111_TB
+R1
+r1
+!s85 0
+!i10b 1
+!s100 boO5D?k;HEjDfg0gd4=TF2
+IgkR@X3Ai>b_[@bP9HdjWm2
+R0
+w1674477542
+8seqDet_111_TB.v
+FseqDet_111_TB.v
+L0 1
+R2
+31
+R3
+!s107 seqDet_111_TB.v|
+!s90 -reportprogress|300|seqDet_111_TB.v|
+!i113 0
+R4
+R5
+nseq@det_111_@t@b

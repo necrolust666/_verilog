@@ -1,0 +1,94 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dZ:/VerilogCodes/Nikhil_Sir_Projects/013_FSM/001_FSM_BASICS/Moore_State_Machine
+vFSM_1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 1QMXa0G:U4iQ[Y:LdQdgz3
+IfN^Q0IW1Co;CZhP11J4Af1
+R0
+w1673941753
+8FSM_1.v
+FFSM_1.v
+L0 3
+Z2 OL;L;10.7c;67
+31
+Z3 !s108 1673943309.000000
+!s107 FSM_1.v|
+!s90 -reportprogress|300|FSM_1.v|
+!i113 0
+Z4 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z5 tCvgOpt 0
+n@f@s@m_1
+vFSM_3
+R1
+r1
+!s85 0
+!i10b 1
+!s100 QGZ<]gVi?@kVcA?<;@M730
+IFm?X2RJ=8D<4<lP=BD6Tj2
+R0
+w1673939134
+8FSM_3.v
+FFSM_3.v
+L0 7
+R2
+31
+Z6 !s108 1673969997.000000
+!s107 FSM_3.v|
+!s90 -reportprogress|300|FSM_3.v|
+!i113 0
+R4
+R5
+n@f@s@m_3
+vFSM_TB
+R1
+r1
+!s85 0
+!i10b 1
+!s100 03n=iTjmd7ga>819Z@z@e1
+IgQz5fGfUbP<5Z0W_UmE0:2
+R0
+w1673969993
+8FSM_TB.v
+FFSM_TB.v
+L0 1
+R2
+31
+R6
+!s107 FSM_TB.v|
+!s90 -reportprogress|300|FSM_TB.v|
+!i113 0
+R4
+R5
+n@f@s@m_@t@b
+vFSM_TB_1
+R1
+r1
+!s85 0
+!i10b 1
+!s100 bmPQolLn]cUYP56Sk5M1N1
+I4coNCj9:]4VW6HFiaa:ck0
+R0
+w1673943292
+8FSM_TB_1.v
+FFSM_TB_1.v
+L0 1
+R2
+31
+R3
+!s107 FSM_TB_1.v|
+!s90 -reportprogress|300|FSM_TB_1.v|
+!i113 0
+R4
+R5
+n@f@s@m_@t@b_1
