@@ -1,0 +1,83 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dZ:/VerilogCodes/Nikhil_Sir_Projects/015_Memories/2.Dual_Port_RAM/Dual_Port_Synchronous_RW
+T_opt
+!s110 1675885781
+VEGgEP@9T3L[A@GifiUdB83
+04 16 4 work dual_port_RAM_TB fast 0
+=1-2cf05d67e718-63e3fcd5-2f1-2d10
+o-quiet -auto_acc_if_foreign -work work -debugdb
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.7c;67
+vdual_port_RAM
+!s110 1675885776
+!i10b 1
+!s100 iVAMoZNbY];Q2h@hTUeal2
+I[Vdf5`bd9Ff==3Q=FgCQd3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1675885277
+Z3 8dual_port_RAM.v
+Z4 Fdual_port_RAM.v
+L0 8
+Z5 OL;L;10.7c;67
+r1
+!s85 0
+31
+!s108 1675885775.000000
+Z6 !s107 dual_port_RAM.v|
+Z7 !s90 -reportprogress|300|dual_port_RAM.v|
+!i113 0
+Z8 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+ndual_port_@r@a@m
+vdual_port_RAM_TB
+R2
+r1
+!s85 0
+!i10b 1
+!s100 ^HTO8n3=Xg@m>a4cVj3]I2
+IRJ3LAaQZJZoZ9`<l=WS191
+R0
+w1675885537
+8dual_port_RAM_TB.v
+Fdual_port_RAM_TB.v
+L0 1
+R5
+31
+!s108 1675885776.000000
+!s107 dual_port_RAM_TB.v|
+!s90 -reportprogress|300|dual_port_RAM_TB.v|
+!i113 0
+R8
+R1
+ndual_port_@r@a@m_@t@b
+vsingle_port_RAM
+R2
+r1
+!s85 0
+!i10b 1
+!s100 iX856j;_MS=3G3A6OBK7^1
+I:KBKIB59IN0k8od7E7]XK0
+R0
+w1675870040
+R3
+R4
+L0 8
+R5
+31
+!s108 1675878489.000000
+R6
+R7
+!i113 0
+R8
+R1
+nsingle_port_@r@a@m

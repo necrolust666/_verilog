@@ -1,0 +1,74 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dZ:/VerilogCodes/Nikhil_Sir_Projects/015_Memories/1.Single_Port_Ram/Asynchronous_RW
+vasync_single_port_RAM
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 l986g5H`QAfW9lV5]mOob2
+Il2Afd]fLgjjkOnojbRVFH0
+Z2 dZ:/VerilogCodes/Nikhil_Sir_Projects/015_Memories/1.Single_Port_Ram/asynchronous_RW
+w1674677536
+Z3 8async_single_port_RAM.v
+Z4 Fasync_single_port_RAM.v
+L0 8
+Z5 OL;L;10.7c;67
+31
+Z6 !s108 1675861021.000000
+Z7 !s107 async_single_port_RAM.v|
+Z8 !s90 -reportprogress|300|async_single_port_RAM.v|
+!i113 0
+Z9 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z10 tCvgOpt 0
+nasync_single_port_@r@a@m
+vasync_single_port_RAM_TB
+R1
+r1
+!s85 0
+!i10b 1
+!s100 4MT5kSGAUTz[c5:RFni;?0
+I2XFY`jRo@NVJID`JJiWT[1
+R2
+w1674676522
+8async_single_port_RAM_TB.v
+Fasync_single_port_RAM_TB.v
+L0 1
+R5
+31
+R6
+!s107 async_single_port_RAM_TB.v|
+!s90 -reportprogress|300|async_single_port_RAM_TB.v|
+!i113 0
+R9
+R10
+nasync_single_port_@r@a@m_@t@b
+vsingle_port_RAM
+!s110 1674676489
+!i10b 1
+!s100 lh23eP7]76AM4H^<376AX2
+I]0KjYE12G<AF3MfoEkh6j0
+R1
+R0
+w1674676392
+R3
+R4
+L0 8
+R5
+r1
+!s85 0
+31
+!s108 1674676489.000000
+R7
+R8
+!i113 0
+R9
+R10
+nsingle_port_@r@a@m

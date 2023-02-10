@@ -4,7 +4,7 @@ module string_();
 // Syntax:	reg [8*n : 0]name;	// n = no. of bits
 								// 8 = each character is 8 ASCII bits 
 
-reg [8*10 : 0]s	 = "Subharshi";
+reg [8*6 : 0]s	 = "Mohor";
 
 initial 
 	begin
@@ -12,5 +12,9 @@ initial
 	$display("string = %s", s);
 	
 	end
+
+initial	begin
+	#1000 $finish;
+end
 
 endmodule

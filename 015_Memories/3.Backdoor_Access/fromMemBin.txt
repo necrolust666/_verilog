@@ -1,0 +1,19 @@
+// memory data file (do not edit the following line - required for mem load use)
+// instance=/backdoor_tst/mem_Bin
+// format=bin addressradix=h dataradix=b version=1.0 wordsperline=1 noaddress
+0101
+1010
+1010
+1100
+1101
+1010
+1011
+0011
+0101
+1010
+xxxx
+xxxx
+xxxx
+xxxx
+xxxx
+xxxx

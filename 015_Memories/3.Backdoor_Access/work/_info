@@ -1,0 +1,30 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dZ:/VerilogCodes/Nikhil_Sir_Projects/015_Memories/Backdoor_Access
+vbackdoor_tst
+VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 0[jZ_YH2I_Z6NFQm0`4@52
+Ib[O0h>a3m6[zT3lW`]@F=3
+R0
+w1676014443
+8backdoor_tst.v
+Fbackdoor_tst.v
+L0 1
+OL;L;10.7c;67
+31
+!s108 1676016567.000000
+!s107 backdoor_tst.v|
+!s90 -reportprogress|300|backdoor_tst.v|
+!i113 0
+o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+tCvgOpt 0

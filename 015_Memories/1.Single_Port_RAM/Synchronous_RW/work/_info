@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dZ:/VerilogCodes/Nikhil_Sir_Projects/015_Memories/1.Single_Port_Ram/Synchronous_RW
+vsingle_port_RAM
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 KZ;>fK>BJXeZC=dGl7H9O0
+I1X6Lhl7`zU3VjB2diE2982
+Z1 dZ:/VerilogCodes/Nikhil_Sir_Projects/015_Memories/1.Single_Port_Ram/synchronous_RW
+w1674636236
+8single_port_RAM.v
+Fsingle_port_RAM.v
+L0 8
+Z2 OL;L;10.7c;67
+31
+Z3 !s108 1675838856.000000
+!s107 single_port_RAM.v|
+!s90 -reportprogress|300|single_port_RAM.v|
+!i113 0
+Z4 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z5 tCvgOpt 0
+nsingle_port_@r@a@m
+vsingle_port_RAM_TB
+R0
+r1
+!s85 0
+!i10b 1
+!s100 UehBIYiSPJE4]X?9@Wn`;0
+IGG6moT3KzG=`@ADA@Lzm;3
+R1
+w1674675557
+8single_port_RAM_TB.v
+Fsingle_port_RAM_TB.v
+L0 1
+R2
+31
+R3
+!s107 single_port_RAM_TB.v|
+!s90 -reportprogress|300|single_port_RAM_TB.v|
+!i113 0
+R4
+R5
+nsingle_port_@r@a@m_@t@b

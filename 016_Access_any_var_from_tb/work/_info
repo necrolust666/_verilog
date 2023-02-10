@@ -1,0 +1,74 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dZ:/VerilogCodes/Nikhil_Sir_Projects/016_Access_any_var_from_tb
+vaccessVars
+Z1 !s110 1674660192
+!i10b 1
+!s100 FY0e5>_ETL07kT[S2N7O@0
+I@M@B5Yah<VN3g8=TYa^<b2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1674643379
+Z3 8accessVars_tb.v
+Z4 FaccessVars_tb.v
+L0 3
+Z5 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z6 !s108 1674660192.000000
+!s107 accessVars_tb.v|
+Z7 !s90 -reportprogress|300|accessVars_tb.v|
+!i113 0
+Z8 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z9 tCvgOpt 0
+naccess@vars
+vaccessVars_tb
+R2
+r1
+!s85 0
+!i10b 1
+!s100 iETkIW_PlB]5B8IcZ2S0Z2
+I0BNomidgElS8ImGhm;]M;1
+R0
+w1674642800
+R3
+R4
+L0 3
+R5
+31
+!s108 1674642805.000000
+!s107 vars.v|accessVars_tb.v|
+R7
+!i113 0
+R8
+R9
+naccess@vars_tb
+vvars
+R1
+!i10b 1
+!s100 bFRZ6?Yo@SY11a?`Z:CW42
+ImjDlP4jX<`d]0]CK3HZ8j3
+R2
+R0
+w1674660186
+8vars.v
+Fvars.v
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 vars.v|
+!s90 -reportprogress|300|vars.v|
+!i113 0
+R8
+R9

@@ -6,6 +6,8 @@ module bin2xs3(
 
 assign xs3 = bin + 4'd3;
 
+// assign xs3 = bin + 4'b0011;
+
 endmodule
 
 

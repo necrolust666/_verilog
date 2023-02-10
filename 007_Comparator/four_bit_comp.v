@@ -6,6 +6,14 @@ module four_bit_comp(
 						);
 
 // g = greater;	e = equal; s = smaller
+// Concept:
+/*
+a[4] > b[4] 	logic:		a[4] & 	~b[4]
+a[4] = b[4]		logic:		a[4] ~^ b[4]
+a[4] < b[4]		logic: 		~a[4] &	b[4]
+*/
+
+
 
 /*
 // RTL Modelling
