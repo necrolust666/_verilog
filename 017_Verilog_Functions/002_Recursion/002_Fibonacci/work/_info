@@ -1,0 +1,40 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dZ:/VerilogCodes/Nikhil_Sir_Projects/017_Verilog_Functions/002_Recursion/002_Fibonacci
+T_opt
+!s110 1680192227
+VG_8Z@z1fBTWDmebK3g3oz0
+04 14 4 work fibo_factorial fast 0
+=1-2cf05d67e718-6425b2e3-5a-2564
+o-quiet -auto_acc_if_foreign -work work -suppress 12110
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.7c;67
+vfibo_factorial
+!s110 1680192226
+!i10b 1
+!s100 2E_3EWoWA?:WK@J:j0RLT2
+IjSFSh[QoQ<?a8U<=l;7hI3
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1680192190
+8fibo.v
+Ffibo.v
+L0 6
+OL;L;10.7c;67
+r1
+!s85 0
+31
+!s108 1680192226.000000
+!s107 fibo.v|
+!s90 -reportprogress|300|fibo.v|
+!i113 0
+o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1

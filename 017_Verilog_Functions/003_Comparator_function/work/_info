@@ -1,0 +1,63 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dZ:/VerilogCodes/Nikhil_Sir_Projects/017_Verilog_Functions/003_Comparator_function
+T_opt
+!s110 1680198379
+VnGTKGATkoR7X?]cQmSoNl0
+04 11 4 work compFunc_tb fast 0
+=1-2cf05d67e718-6425caeb-34e-3298
+o-quiet -auto_acc_if_foreign -work work -suppress 12110
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.7c;67
+vcompFunc
+Z2 !s110 1680198377
+!i10b 1
+!s100 AdL?mAMz6fU9EQ?@]2Dja0
+IoVFPWfl6Td_aN^Hlg`e7?1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1680197985
+8compFunc.v
+FcompFunc.v
+L0 3
+Z4 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z5 !s108 1680198377.000000
+Z6 !s107 compFunc.v|compFunc_tb.v|
+Z7 !s90 -reportprogress|300|compFunc_tb.v|
+!i113 0
+Z8 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+ncomp@func
+vcompFunc_tb
+R2
+!i10b 1
+!s100 5CX8R5KBg@K;mU2DZ0Y`D1
+IaXWYGdNoNMQ[Xh<D=5W<D2
+R3
+R0
+w1680198376
+8compFunc_tb.v
+FcompFunc_tb.v
+L0 3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+ncomp@func_tb

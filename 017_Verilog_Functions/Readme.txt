@@ -1,0 +1,1 @@
+Factorial is a procedural block. So, we have to use reg variables inside the "function".

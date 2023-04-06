@@ -1,0 +1,50 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dZ:/VerilogCodes/Nikhil_Sir_Projects/017_Verilog_Functions/002_Recursion
+T_opt
+!s110 1680189149
+V[ePNA6MSeBRi=_obi[f533
+Z1 04 13 4 work rec_factorial fast 0
+=1-2cf05d67e718-6425a6dc-1fb-28a0
+Z2 o-quiet -auto_acc_if_foreign -work work -suppress 12110
+Z3 tCvgOpt 0
+n@_opt
+Z4 OL;O;10.7c;67
+R0
+T_opt1
+!s110 1680190432
+Vhm:DZFDV8ThgCTcmZE_IV1
+R1
+=1-2cf05d67e718-6425abe0-297-3794
+R2
+R3
+n@_opt1
+R4
+vrec_factorial
+!s110 1680190430
+!i10b 1
+!s100 7k5bVInbn0BI:]^:8hS=R1
+Ia>RXHdRIVM8[Hc]J6JZz02
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1680190425
+8recursion_factorial.v
+Frecursion_factorial.v
+L0 6
+OL;L;10.7c;67
+r1
+!s85 0
+31
+!s108 1680190430.000000
+!s107 recursion_factorial.v|
+!s90 -reportprogress|300|recursion_factorial.v|
+!i113 0
+o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R3

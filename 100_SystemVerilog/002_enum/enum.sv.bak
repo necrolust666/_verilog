@@ -1,0 +1,27 @@
+// Code your testbench here
+// or browse Examples
+
+
+module tb;
+  enum {Red, Blue, Green} colours;
+  initial
+    begin
+	// Assigning a Variable
+	colours = Blue;
+
+      $display("%d", colours);
+      $display("%d", colours.name);
+      $display("%s", colours);
+      $display("%s", colours.name); 
+   end
+
+  enum {Cat, Dog, Bat} chills;
+	initial
+	begin
+	$display("%d", chills);
+	$display("%d", chills.name);
+	$display("%s", chills);
+	$display("%s", chills.name);
+	end
+ 
+endmodule

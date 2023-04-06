@@ -1,0 +1,28 @@
+git init
+git status
+git add .
+git status
+git commit -m "message"
+git push
+
+
+ / ------ Push Commands ------ /
+
+BACKSTORY: Local Folder (PC)
+	   LOCAL REPO/Database	  (Git Bash Running as Server at my PC)
+	   GLOBAL REPO 	  (Github server far far away!)
+
+
+git status (reg) - changes in the local folder in comparison with github repo
+
+git add .  - 	. is all to be considered			// Local to Repo
+	     	changes in local is ready to be pushed to repo
+
+git status (green)
+
+git commit -m "message! to check it worked" 			// Commit -> 	Local Database -> Global REPO
+// -m is message (IMPORTANT)
+
+git pull 		// other/existing member's in the project files are to be merged alongwith mine
+
+git push		// done dana done
